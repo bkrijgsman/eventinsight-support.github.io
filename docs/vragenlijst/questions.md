@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Vragenlijst 
+title: Vragenlijst details
 parent: Vragenlijst
-nav_order: 2
+nav_order: 1
 ---
 
-# Apple development account
+# Vragenlijst details
 {: .no_toc }
 
 In dit artikel worden de onderdelen van de vragenlijst in detail toegelicht.
