@@ -8,7 +8,7 @@ permalink: /content2
 
 # Vragenlijst
 
-Deze sectie beschrijft alles over het opstart proces van de applicatie.
+Deze sectie beschrijft alles over het opstartproces van de applicatie.
 {: .fs-6 .fw-300 }
 
 ## Inhoud
@@ -25,7 +25,7 @@ In totaal moeten er 4 stappen af worden gerond voordat de app gelanceerd kan wor
 | **Type**	| **Stap**							| **Handleiding**								|
 | Verplicht | Invullen vragenlijst 				| [handleiding](docs/vragenlijst/questions/) 	|
 | Verplicht	| Apple Developers Account 			| [handleiding](docs/vragenlijst/invite-apple/) |
-| Optioneel | Android Developers Account 		| [handleiding](docs/vragenlijst/android-dev/)) |
+| Optioneel | Android Developers Account 		| [handleiding](docs/vragenlijst/android-dev/) 	|
 | Verplicht	| Vullen app en plannen lancering 	| (hierover wordt contact met je opgenomen)		|
 
 Afhankelijk van het pakket bieden we verschillende niveaus van hulp bij het vullen van de app, variërend van simpele ondersteuning tot full-service vulling. Voor alle paketten geldt dat je altijd contact met ons kan opnemen bij vragen of onduidelijkheden.
