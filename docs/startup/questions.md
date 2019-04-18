@@ -43,7 +43,7 @@ Dit zijn de gegevens die we nodig hebben om de juiste persoon te bereiken voor e
 
 Dit zijn de gegevens die we nodig hebben om ervoor te zorgen dat de app op tijd gelanceerd kan worden.
 
-| **Naam van het evenement** | |
+| **Naam van het evenement** | De naam van het evenement |
 | **Begindatum** |Eerste dag van het evenement|
 | **Einddatum** |Laatste dag van het evenement (optioneel voor 1-daagse evenementen)|
 | **Datum inrichting** |Datum waarop de organisatie de app wil inrichten. **Let op**: dit is uiterlijk twee weken voor het evenement. |
@@ -53,7 +53,7 @@ Dit zijn de gegevens die we nodig hebben om ervoor te zorgen dat de app op tijd 
 
 Dit zijn de gegevens die deels bepalen hoe de app eruit komt te zien. Het is mogelijk deze gegevens tot maximaal twee weken voor de lancering te wijzigen.
 
-| **Naam applicatie store** | Dit is de naam waarop de app gevonden kan worden in de stores. Deze hoeft niet hetzelfde te zijn als de naam van de app op de telefoon. **Let op**: gebruik maximaal 30 tekens | 
+| **Naam applicatie store** | Dit is de naam waarop de app gevonden kan worden in de stores. Deze hoeft niet hetzelfde te zijn als de naam van de app op de telefoon. **Let op**: gebruik maximaal 30 tekens |
 | **Naam applicatie telefoon** | Dit is de naam van de app op de telefoon, nadat deze geïnstalleerd is door de deelnemers. **Let op**: gebruik maximaal 13 tekens |
 | **App icoon** | Dit is het icoon van de app. Dit is het icoontje op de telefoon waar mensen op drukken. Het is belangrijk dat dit icoon duidelijk herkenbaar is en niet te veel kleine onderdelen bevat. Dit icoon wordt ook in de stores getoond. **Let op**: dit moet een niet transparante png zijn van *precies* 1024x1024 pixels. |
 | **Logo inloggen** | Dit is het logo dat wordt weergegeven op het inlogscherm van de app. Deze afbeelding mag transparant zijn. **Let op**: minimaal 500x500 pixels.|
