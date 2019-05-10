@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Opstartproces 
-nav_order: 3
+nav_order: 2
 has_children: true
-permalink: /content2
+permalink: /startup
 ---
 
 # Opstartproces
@@ -25,7 +25,7 @@ In totaal moeten er 4 stappen af worden gerond voordat de app gelanceerd kan wor
 
 | **Type**	| **Stap**							| **Handleiding**								|
 | Verplicht | Invullen vragenlijst 				| [handleiding](docs/startup/questions/) 	|
-| Verplicht	| Apple Developers Account 			| [handleiding](docs/startup/invite-apple/) |
+| Verplicht	| Apple Developers Account 			| [handleiding](docs/startup/apple-dev/) |
 | Optioneel | Android Developers Account 		| [handleiding](docs/startup/android-dev/) 	|
 | Verplicht	| Vullen app en plannen lancering 	| (hierover wordt contact met je opgenomen)		|
 
